@@ -1,0 +1,4 @@
+#define FreeSpace 0x1000000
+#include eastdlib.event
+ORG FreeSpace
+#include "FE8EssentialFixes.txt"
